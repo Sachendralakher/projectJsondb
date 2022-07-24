@@ -14,5 +14,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 **24 july 2022**
 ### [Documentation Link](http://login2explore.com/jpdb/docs.html)
 ## Project status-
-- Not working properly
-- data not updating in my Api databse (JSONPOWERDB) via netbean coding 
+- Not working properly.
+- Data not updating in my Api databse (JSONPOWERDB) via netbean coding. 
+- Not showing command and respond message.
